@@ -1,5 +1,1 @@
-#include <iostream> 
-using namespace std ;
-int main (){
- cout<<"basmala";
-}
+ remove test code
